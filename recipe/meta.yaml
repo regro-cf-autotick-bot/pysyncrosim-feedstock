@@ -40,7 +40,7 @@ test:
     - pytest
 
 about:
-  home: https://www.apexrms.com
+  home: https://syncrosim.com/
   summary: Python interface to SyncroSim
   license: MIT
   license_file: LICENSE
