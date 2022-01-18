@@ -1,5 +1,5 @@
 {% set name = "pysyncrosim" %}
-{% set version = "1.0.6" %}
+{% set version = "1.0.7" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pysyncrosim-{{ version }}.tar.gz
-  sha256: fafbd86477242991ceb4bd7a679d9e7b229cc13d851e2e6c18ec13da0d028581
+  sha256: 984d7336fa7a089db93e83177694ce5a555484fcbc87d86ce7e7cce20a90b6a1
 
 build:
   number: 0
@@ -40,7 +40,7 @@ test:
     - pytest
 
 about:
-  home: https://www.apexrms.com
+  home: https://syncrosim.com/
   summary: Python interface to SyncroSim
   license: MIT
   license_file: LICENSE

@@ -1,7 +1,7 @@
 About pysyncrosim
 =================
 
-Home: https://www.apexrms.com
+Home: https://syncrosim.com/
 
 Package license: MIT
 
