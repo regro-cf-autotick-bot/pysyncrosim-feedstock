@@ -1,11 +1,11 @@
-About pysyncrosim
-=================
+About pysyncrosim-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pysyncrosim-feedstock/blob/main/LICENSE.txt)
 
 Home: https://syncrosim.com/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pysyncrosim-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python interface to SyncroSim
 
